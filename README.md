@@ -1,5 +1,6 @@
 # arduino-due-qt-creator
 templates wizard for fast create project
+
 copy this templates in path_to_qt/Tools/QtCreator/share/qtcreator/templates/wizards/
 for work you need to install arduino ide whith support Arduino Due
 if you work with freertos, download port and copy dir FreeRTOS_ARM in (path_arduino)/libraries
