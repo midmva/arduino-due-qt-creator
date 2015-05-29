@@ -1,9 +1,10 @@
 # arduino-due-qt-creator
-It's templates wizard for fast create project for board Arduino DUE (on ARM CortexM3 ATSAM3X8E controller based) with using the Qt Creator(with or without using FreeRTOS)
+It's templates wizard for fast create project for board Arduino DUE (on ARM CortexM3 ATSAM3X8E controller based) with using the Qt Creator(with or without using FreeRTOS).
+Template include Makefile for ARM.
 
 Connect your Arduino board in the Programming port (with use Native port you needed clear and reset your devise manually)
 
-Copy this templates in path_to_qt/Tools/QtCreator/share/qtcreator/templates/wizards/
+Copy this templates in (path-to-qt)/Tools/QtCreator/share/qtcreator/templates/wizards/
 
 For work you need to install Arduino IDE with support Arduino Due.
 
@@ -22,3 +23,5 @@ After that write the path whith Arduino IDE and Arduino libraries
 This templates containts blink project.
 
 This templates make with using github/pauldreik/arduino-due-makefile project and github/cleitonsouza01/qt-creator-arduino project
+
+Tested in Arduino IDE 1.6.4 with Qt Creator 3.3.1
