@@ -4,7 +4,7 @@ Template based on the QBS(2 templates).
 
 Prepare to work: install Arduino IDE with support Arduino DUE, install Qt Creator
 
-Connect your Arduino board in the Programming port (if you use Native port you needed clear and reset your devise manually)
+Connect your Arduino board in the Programming port (if you use Native port you needed clear and reset your device manually)
 
 Copy this templates in (path-to-qt)/Tools/QtCreator/share/qtcreator/templates/wizards/
 
