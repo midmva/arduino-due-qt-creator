@@ -16,7 +16,7 @@ Copy(or move) contents (home-dir)/.arduino15/packages/arduino/tools/ in (path-to
 
 After that run QtCreator, choose newFile>ARM
 
-If you use QBS - delete(or rename) file main.cpp in the folder (path-to-arduino)/hardware/arduino/sam/cores/arduino/
+Delete(or rename) file main.cpp in the folder (path-to-arduino)/hardware/arduino/sam/cores/arduino/
 
 Choose string with needed configuration and press Choose
 
