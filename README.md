@@ -1,5 +1,5 @@
 # arduino-due-qt-creator
-It's templates wizard for fast create project for board Arduino DUE (on ARM CortexM3 ATSAM3X8E controller based) with using the Qt Creator(with or without using FreeRTOS) .
+It's templates wizard  for fast creating project for board Arduino DUE (on ARM CortexM3 ATSAM3X8E controller based) with using the Qt Creator(with or without using FreeRTOS) .
 Template based on the QBS(2 templates).
 
 Prepare to work: install Arduino IDE with support Arduino DUE, install Qt Creator
