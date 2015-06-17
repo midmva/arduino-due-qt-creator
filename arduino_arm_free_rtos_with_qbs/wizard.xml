@@ -41,8 +41,8 @@ leave room for the Qt 4 target page.
         class="" firstpage="10"
         id="A.Arduino_ARM" category="B.Arduino_ARM">
     <icon>arduino_logo.jpg</icon>
-    <description>Creates an project based on the QBS from the FreeRTOS.</description>
-    <displayname>Project based on the QBS from the FreeRTOSS</displayname>;
+    <description>Creates an project based on the QBS with the FreeRTOS.</description>
+    <displayname>Project based on the QBS with the FreeRTOSS</displayname>;
     <displaycategory>Arduino ARM</displaycategory>
     <files>
         <file source="project.qbs"      target="%ProjectName%.qbs" openproject="true"/>
